@@ -1,0 +1,1 @@
+Implementação da navegação do botão Consultar Vendas para abrir a tela de Vendas.
