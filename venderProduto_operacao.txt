@@ -1,0 +1,1 @@
+Implementação da operação venderProduto() em ProdutosDAO, atualizando o status do produto para 'Vendido'.
