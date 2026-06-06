@@ -1,0 +1,1 @@
+Implementação da funcionalidade de venderProduto na tela de listagem, atualizando o status e salvando a venda.
