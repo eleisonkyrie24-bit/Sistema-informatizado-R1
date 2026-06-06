@@ -1,0 +1,1 @@
+Implementação da operação listarProdutosVendidos() em ProdutosDAO, retornando todos os produtos com status 'Vendido'.
